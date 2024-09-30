@@ -4,8 +4,8 @@ from selenium.webdriver.common.keys import Keys
 from selenium.common.exceptions import ElementClickInterceptedException, NoSuchElementException
 from time import sleep
 
-FB_EMAIL = "piyushtailor1905@gmail.com"
-FB_PASSWORD = "MeraMeta#123"
+FB_EMAIL = "SampleEmail@gmail.com"
+FB_PASSWORD = "SamplePassword"
 
 driver = webdriver.Chrome()
 
